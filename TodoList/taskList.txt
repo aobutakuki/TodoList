@@ -1,3 +1,4 @@
-Code/Study CS, 5;
-Play Guitar,3;
-Study Math, 4;
+Code/StudyCS , 5;
+CookingMeth , 5;
+PlayGuitar , 3;
+StudyMath , 4;
